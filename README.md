@@ -7,7 +7,7 @@
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 # soal UAS PEMOGRAMAN
-
+![img.1](gambar/GAMBAR%20S.png)
 # Penjelasan
 # Daftar_Nilai
 - data = {} untuk menampung list data yang nanti akan terinput
